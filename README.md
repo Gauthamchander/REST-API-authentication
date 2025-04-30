@@ -1,0 +1,1 @@
+A secure RESTful API built with Node.js, Express, and PostgreSQL using JWT (JSON Web Tokens) for user authentication and authorization. Includes user registration, login, protected routes, and token validation
